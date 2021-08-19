@@ -1,0 +1,47 @@
+/** Navbar **/
+
+
+
+
+.navbar a:hover{
+    color:red;
+    
+    
+}
+
+.nav a:hover{
+    color:red !important;
+}
+
+.nav {
+    font-size:16px !important;
+}
+
+#footer{
+    padding: 30px;
+    
+    width: 100%;
+}
+.cadastro{
+    margin:17px 489px 258px;
+    
+}
+
+#buttom{
+    margin:10px 6px 5px 0px;
+}
+
+
+   .text-right{
+    text-align: right !important;
+    margin: 0px 100px;
+}
+
+
+
+
+
+
+
+
+
